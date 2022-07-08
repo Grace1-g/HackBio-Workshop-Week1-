@@ -16,10 +16,10 @@ mkdir biocomputing && cd biocomputing
 To do this, wget (a free GNU command-line utility tool used to download files from the internet) was installed 
 
 ### Command
-sudo apt-get install wget
-wget https://raw.githubusercontent.com/josoga2/dataset-repos/main/wildtype.fna
-wget https://raw.githubusercontent.com/josoga2/dataset-repos/main/wildtype.gbk
-wget https://raw.githubusercontent.com/josoga2/dataset-repos/main/wildtype.gbk
+        sudo apt-get install wget
+        wget https://raw.githubusercontent.com/josoga2/dataset-repos/main/wildtype.fna
+        wget https://raw.githubusercontent.com/josoga2/dataset-repos/main/wildtype.gbk
+        wget https://raw.githubusercontent.com/josoga2/dataset-repos/main/wildtype.gbk
 
 ## The fna file was supposed to be in the first directory (Grace)
 To move it from present directory
