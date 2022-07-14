@@ -1,4 +1,4 @@
-# The task was to complete a story with command lines alone
+# The task was to complete two stories with command lines alone
 
 ### The first instruction was to create a new folder titled my name
 To do this:
