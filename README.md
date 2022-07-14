@@ -1,5 +1,8 @@
 # The task was to complete two stories with command lines alone
 
+## week1_task1 contains the command lines used to complete the first story and 
+## weeek1_task2 contains the command lines for the second story
+
 ### The first instruction was to create a new folder titled my name
 To do this:
 
